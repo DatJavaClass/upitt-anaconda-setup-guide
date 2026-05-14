@@ -1,6 +1,6 @@
 # CMPINF-2100 Setup Guide
 
-A step-by-step guide for setting up Anaconda, creating your course environment, and running your first Jupyter notebook. Covers **Windows**, **macOS**, and **Linux**.
+A step-by-step guide for setting up Anaconda, creating your course environment, and running your first Jupyter notebook. Covers **Windows**, **Linux**, and **macOS** in that order.
 
 By the end of this guide, you'll have:
 
